@@ -1,0 +1,9 @@
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\Moq1.dll
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\Moq1.pdb
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\Castle.Core.dll
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\Moq.dll
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\nunit.framework.dll
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\Moq.xml
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\bin\Debug\nunit.framework.xml
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\obj\Debug\Moq1.dll
+C:\Users\kalavala\Documents\Visual Studio 2015\Projects\ClassLibrary1\Moq1\obj\Debug\Moq1.pdb
